@@ -17,7 +17,7 @@ Feedback/Suggestions are always welcome and do mention any issues found. They ca
 ## Credits
 
 ### License Information
-The license information of all the dependencies/libraries used in the code can be found in the **LicenseInformation.txt** file in the root folder.
+The license information of all the dependencies/libraries used in the code can be found in the *LicenseInformation.txt** file in the root folder.
 
 ### Usage of code snippets:
 For few parts of the code, I have used code snippets available online. The list of all the code snippets which I referred to are:
